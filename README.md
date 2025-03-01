@@ -17,6 +17,13 @@ brew "<formula>"
 
 `brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
 
+## Working with this repository
+
+* Submit a PR
+* Make sure the PR build is green
+* Apply the `pr-pull` label to publish the bottles
+* Merge the PR
+
 ## Tap contents
 
 ### `man-pages-posix`
